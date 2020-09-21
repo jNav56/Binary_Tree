@@ -1,14 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Shell for a binary search tree class.
- * @author scottm
- * @param <E> The data type of the elements of this BinartSearchTree.
- * Must implement Comparable or inherit from a class that implements
- * Comparable.
- *
- */
 public class BinarySearchTree<E extends Comparable<? super E>> {
 
     private BSTNode<E> root;
