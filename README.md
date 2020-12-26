@@ -4,6 +4,17 @@ In this project, I implement a binary tree and searching methods. I explore the 
 
 The file of BinarySearchTree.java is the implementation of the whole project. To make easier to view, multiple other java files were created to highlight important classes and methods.
 
+## Display of Project
+
+### Adding Nodes
+![gif](adding_binary.gif)
+
+### Removing Nodes
+![gif](subtracting_binary.gif)
+
+### Inversion Tree Vertically
+![gif](inversion_binary.gif)
+
 ## Key Feautures
 
 - Programmed in Java
